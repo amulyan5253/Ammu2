@@ -13,6 +13,7 @@ with open(myfile) as fh:
                 odd += int(ns)
 print(sum)
 print(even)
+
 print(odd)
 
 
